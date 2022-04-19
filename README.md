@@ -9,6 +9,13 @@ hosting,cloud providers,
 
 freelancers
 
+## Zadania
++ Migration
+  + data
+  + applications
+  + infrastructure
++ Backup
++ Replication
 
 ## Możliwości
 
