@@ -11,10 +11,12 @@ freelancers
 
 ## Zadania
 + Migration
-  + data
+  + Import / Export of data
   + applications
   + infrastructure
 + Backup
++ Restore
++ 
 + Replication
 
 ## Możliwości
